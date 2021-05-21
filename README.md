@@ -2,7 +2,9 @@
 ![me](https://res.cloudinary.com/coolness/image/upload/v1621341222/q7eq8ldu5wlosg9ywh33.jpg)
 
 You can find me 🌎:
+
 -[YOUTUBE](https://www.youtube.com/channel/UCPnjIYHTBRCnVyI5evXfy1A)
+
 - 👋 Hi, I’m @Josemaro
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
