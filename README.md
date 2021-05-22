@@ -3,7 +3,7 @@
 
 You can find me 🌎:
 
--[YOUTUBE](https://www.youtube.com/channel/UCPnjIYHTBRCnVyI5evXfy1A)
+- [YOUTUBE](https://www.youtube.com/channel/UCPnjIYHTBRCnVyI5evXfy1A)
 
 - 👋 Hi, I’m @Josemaro
 - 👀 I’m interested in ...
