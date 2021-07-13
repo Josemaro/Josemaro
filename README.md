@@ -1,9 +1,4 @@
 
-![me](https://res.cloudinary.com/coolness/image/upload/v1621341222/q7eq8ldu5wlosg9ywh33.jpg)
-<p align="center"><img src="https://res.cloudinary.com/coolness/image/upload/v1621341222/q7eq8ldu5wlosg9ywh33.jpg" alt="Synthwave" ></p>
-You can find me 🌎:
-
-- [YOUTUBE](https://www.youtube.com/channel/UCPnjIYHTBRCnVyI5evXfy1A)
 
 - 👋 Hi, I’m @Josemaro
   - 👀 I’m interested in ...
