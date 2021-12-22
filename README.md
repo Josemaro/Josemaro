@@ -33,7 +33,7 @@
 ### My latest projects
 
 <a href="https://github.com/Josemaro/desafioPokemon">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Josemaro&repo=desafioPokemon" alt="codestats-profile-readme" />
 </a>
 
 
