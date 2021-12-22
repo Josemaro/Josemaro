@@ -1,5 +1,5 @@
 
-
+# Hi
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -30,14 +30,14 @@
   
  
 
-### My latest projects
+### My latest project
 
 <a href="https://github.com/Josemaro/desafioPokemon">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Josemaro&repo=desafioPokemon" alt="codestats-profile-readme" />
 </a>
 
 
-<h4>Desktop Environment: </h4>
+<h3>Desktop Environment: </h3>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
