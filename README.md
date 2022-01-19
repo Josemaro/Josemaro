@@ -38,13 +38,10 @@
 <a href="https://github.com/PedigreeTeam/BodyHealthy">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=PedigreeTeam&repo=BodyHealthy" alt="codestats-profile-readme" />
 </a>
-<a href="https://github.com/Josemaro/desafioPokemon">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Josemaro&repo=desafioPokemon" alt="codestats-profile-readme" />
-</a>
-<a href="https://github.com/Josemaro/desafioPokemon">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Josemaro&repo=desafioPokemon" alt="codestats-profile-readme" />
-</a>
 
+<a href="https://github.com/PedigreeTeam/UPN-THREE.JS">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=PedigreeTeam&repo=UPN-THREE.JS" alt="codestats-profile-readme" />
+</a>
 
 
 <h3>Desktop Environment: </h3>
