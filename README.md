@@ -1,5 +1,8 @@
+### Hey 👋, I'm Josemaro
 
-#
+  Hi, I'm Govind Josemaro, a Full Stack developer 🚀 from Peru, Currently studying Software Engineer
+
+  I enjoy listening music 🎧 and traveling 🏝️🗻.
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
