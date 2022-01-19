@@ -3,12 +3,6 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-
-[![Josemaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josemaro)](https://github.com/Josemaro/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josemaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
