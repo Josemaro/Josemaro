@@ -5,7 +5,7 @@
 Soy un desarrollador apasionado con experiencia en backend y frontend. Me encanta crear soluciones eficientes y robustas, y tengo una especialización en Spring Boot y Salesforce B2C Commerce. Actualmente estoy trabajando en proyectos que combinan gestión de tareas y hábitos con inteligencia artificial.
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript avanzado** y **Angular**.
-- 👯 Estoy buscando colaborar en proyectos **open-source**.
+- 👯 Estoy buscando colaborar en proyectos **e-commerce**.
 - 💬 Pregúntame sobre **Spring Boot, Java, Javascript, Salesforce B2C Commerce, React**.
 - 📫 Cómo contactarme: josemawo17@gmail.com(mailto: josemawo17@gmail.com)
 - ⚡ Dato curioso: Me encanta la filosofía de ayudar a los demás y encuentro paz en el voluntariado.
