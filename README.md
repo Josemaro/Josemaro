@@ -1,53 +1,76 @@
-### Hey 👋, I'm Josemaro
+# ¡Hola, soy Jose Wong! 👋
 
-  Hi, I'm Govind Josemaro, a Full Stack developer 🚀 from Peru, Currently studying Software Engineer
+## Acerca de mí 🚀
 
-  I enjoy listening music 🎧 and traveling 🏝️🗻.
+Soy un desarrollador apasionado con experiencia en backend y frontend. Me encanta crear soluciones eficientes y robustas, y tengo una especialización en Spring Boot y Salesforce B2C Commerce. Actualmente estoy trabajando en proyectos que combinan gestión de tareas y hábitos con inteligencia artificial.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+- 🌱 Actualmente estoy aprendiendo **JavaScript avanzado** y **Angular**.
+- 👯 Estoy buscando colaborar en proyectos **open-source**.
+- 💬 Pregúntame sobre **Spring Boot, Java, Javascript, Salesforce B2C Commerce, React**.
+- 📫 Cómo contactarme: josemawo17@gmail.com(mailto: josemawo17@gmail.com)
+- ⚡ Dato curioso: Me encanta la filosofía de ayudar a los demás y encuentro paz en el voluntariado.
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=Josemaro&show_icons=true&theme=dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Josemaro&theme=dark&hide_border=true" width = 400>
-  
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
- 
+## 🚀 Habilidades
 
-### My latest project
+### Lenguajes de Programación
 
-<a href="https://github.com/Josemaro/desafioPokemon">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Josemaro&repo=desafioPokemon" alt="codestats-profile-readme" />
-</a>
-<a href="https://github.com/PedigreeTeam/BodyHealthy">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=PedigreeTeam&repo=BodyHealthy" alt="codestats-profile-readme" />
-</a>
+- Java
+- JavaScript
+- Python
 
-<a href="https://github.com/PedigreeTeam/UPN-THREE.JS">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=PedigreeTeam&repo=UPN-THREE.JS" alt="codestats-profile-readme" />
-</a>
+### Frameworks y Librerías
+
+- Spring Boot
+- React
+- Angular
+
+### Herramientas y Tecnologías
+
+- Salesforce B2C Commerce
+- Git
+- Docker
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Josemaro&show_icons=true&theme=radical)
+
+---
+
+## 📂 Proyectos Destacados
+
+### [Proyecto 1: NewBalance [ARG] ](https://www.newbalance.com.ar/)
+
+Participación como desarrollador para la construcción del e-commerce tomando como base RefArch para el Storefront en el ambiente B2C Commerce Cloud
+
+- **Tecnologías:** NodeJS, Javascript, Jquery, Page Designer, Salesforce B2C Commerce
+- **Descripción:** E-commerce para la marca NewBalance Argentina
+
+### [Proyecto 2: UnderArmour [ARG] ](https://www.underarmour.com.ar/)
+
+Participación como desarrollador para la construcción del e-commerce tomando como base RefArch para el Storefront en el ambiente B2C Commerce Cloud
+
+- **Tecnologías:** NodeJS, Javascript, Jquery, Page Designer, Salesforce B2C Commerce
+- **Descripción:** E-commerce para la marca UnderArmour Argentina
 
 
-<h3>Desktop Environment: </h3>
-<p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-</p>
+### [Proyecto 3: Integración de Salesforce B2C Commerce](https://github.com/tuusuario/proyecto3)
+
+Integración avanzada de **Salesforce B2C Commerce** con un sistema de gestión de lealtad.
+
+- **Tecnologías:** Salesforce B2C Commerce, Node.js, Express
+- **Descripción:** Este proyecto integra Salesforce B2C Commerce con un sistema de gestión de lealtad, permitiendo sincronización de datos en tiempo real.
+
+---
+
+## 📞 Contacto
+
+- **Email:** [josemawo17@gmail.com](josemawo17@gmail.com)
+- **LinkedIn:** [linkedin.com/in/josemawong](https://www.linkedin.com/in/josemawong/)
+
+---
+
+¡Gracias por visitar mi perfil!¡Siempre estoy abierto a colaborar!
