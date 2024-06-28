@@ -34,12 +34,6 @@ Soy un desarrollador apasionado con experiencia en backend y frontend. Me encant
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Josemaro&show_icons=true&theme=radical)
-
----
-
 ## 📂 Proyectos Destacados
 
 ### [Proyecto 1: NewBalance [ARG] ](https://www.newbalance.com.ar/)
