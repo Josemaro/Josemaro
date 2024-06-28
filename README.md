@@ -50,14 +50,6 @@ Participación como desarrollador para la construcción del e-commerce tomando c
 - **Tecnologías:** NodeJS, Javascript, Jquery, Page Designer, Salesforce B2C Commerce
 - **Descripción:** E-commerce para la marca UnderArmour Argentina
 
-
-### [Proyecto 3: Integración de Salesforce B2C Commerce](https://github.com/tuusuario/proyecto3)
-
-Integración avanzada de **Salesforce B2C Commerce** con un sistema de gestión de lealtad.
-
-- **Tecnologías:** Salesforce B2C Commerce, Node.js, Express
-- **Descripción:** Este proyecto integra Salesforce B2C Commerce con un sistema de gestión de lealtad, permitiendo sincronización de datos en tiempo real.
-
 ---
 
 ## 📞 Contacto
