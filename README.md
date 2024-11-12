@@ -8,7 +8,6 @@ Soy un desarrollador apasionado con experiencia en backend y frontend. Me encant
 - 👯 Estoy buscando colaborar en proyectos **e-commerce**.
 - 💬 Pregúntame sobre **Spring Boot, Java, Javascript, Salesforce B2C Commerce, React**.
 - 📫 Cómo contactarme: josemawo17@gmail.com(mailto: josemawo17@gmail.com)
-- ⚡ Dato curioso: Me encanta la filosofía de ayudar a los demás y encuentro paz en el voluntariado.
 
 ---
 
